@@ -1,4 +1,4 @@
-# 2026 GameD Development
+# 2026 Game Development
 
 Public notes to support learning of TU Dublin module COMP H4024: Game Development
 
